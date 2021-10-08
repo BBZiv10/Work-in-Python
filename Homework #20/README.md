@@ -5,3 +5,4 @@
 ![Picture 3](https://github.com/BBZiv10/Work-in-Python/blob/main/Homework%20%2320/Screenshots/Screen%20Shot%202021-09-17%20at%203.11.48%20PM.png)
 ![Picture 4](https://github.com/BBZiv10/Work-in-Python/blob/main/Homework%20%2320/Screenshots/Screen%20Shot%202021-09-17%20at%203.15.46%20PM.png)
 ![Picture 5](https://github.com/BBZiv10/Work-in-Python/blob/main/Homework%20%2320/Screenshots/Screen%20Shot%202021-09-17%20at%203.16.04%20PM.png)
+![Picture 6](https://github.com/BBZiv10/Work-in-Python/blob/main/Homework%20%2320/Screenshots/Screen%20Shot%202021-09-17%20at%203.16.04%20PM.png)
